@@ -7,5 +7,5 @@
 3. NER
 4. KeyPhrase Extration
 # Contact
-If you have any questions, please feel free to contact us from following URL.
+If you have any questions, please feel free to contact us from following URL.  
 E-Mail: delltowerkhan@gmail.com
